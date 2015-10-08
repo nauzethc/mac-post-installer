@@ -64,7 +64,7 @@ ssh-add ~/.ssh/id_rsa
 ## Apps and packages
 ```bash
 brew install wget lftp ssh-copy-id node
-brew cask install google-chrome iterm2 atom vlc moom spotify transmission
+brew cask install google-chrome iterm2 atom vlc moom spotify transmission dropbox
 ```
 
 ## Atom packages
