@@ -51,7 +51,7 @@ touch ~/.hushlogin
 
 ## Unhide Library
 ```
-chflags ~/Library
+chflags nohidden ~/Library
 ```
 
 ## Generate SSH key and enable agent
